@@ -1,0 +1,23 @@
+{
+  "name": "jquery.highlight-bartaz",
+  "version": "1.0.0",
+  "description": "This is just my little place to play with JavaScript. Will contain bigger and smaller pieces of my fun with jQuery and stuff.",
+  "main": "jquery.highlight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartaz/sandbox.js.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery.highlight"
+  ],
+  "author": "bartaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bartaz/sandbox.js/issues"
+  },
+  "homepage": "https://github.com/bartaz/sandbox.js#readme"
+}
